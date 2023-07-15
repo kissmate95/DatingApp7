@@ -1,0 +1,8 @@
+@ECHO OFF
+ECHO.
+ECHO ...... Kis tÅrelmet kÇrÅnk! ......
+DArtiMax.exe DArtiMax.1
+ECHO A PLU-ban t†rolt cikkek tîrlãdtek!
+ECHO.
+
+
