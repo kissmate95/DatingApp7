@@ -5,9 +5,7 @@ using API.DTOs;
 using API.Entities;
 using API.Interface;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Diagnostics;
 
 namespace API.Controllers
 {
